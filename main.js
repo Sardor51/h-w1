@@ -5,7 +5,7 @@ var age = +prompt('Введите свой возраст');
 console.log('Мне ' + age);
 var primer1 = +prompt('Решите пример' +'12+3=?')
 console.log('Пример 1: ' + '12+3='+ (12+3)+' Ваш ответ: ' + primer1);
-var primer2 = +prompt('Решите пример' +'10-3=?')
+var primer2 = +prompt('Решите пример' +'12-3=?')
 console.log('Пример 2: ' + '12-3='+ (12-3)+' Ваш ответ: ' + primer2);
 var primer3 = +prompt('Решите пример' +'14:2=?')
 console.log('Пример 3: ' + '14:2='+ 14/2+' Ваш ответ: ' + primer3);
